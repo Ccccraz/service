@@ -331,5 +331,5 @@ Environment={{$k}}={{$v}}
 {{end -}}
 
 [Install]
-WantedBy=multi-user.target
+WantedBy=default.target
 `
